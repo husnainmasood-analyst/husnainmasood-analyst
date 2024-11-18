@@ -1,5 +1,6 @@
 Husnain Masood
 📊 Warehouse Manager | 📈 Business Data Analyst
+
 Welcome to my GitHub profile! I'm Husnain Masood, a Warehouse Manager with a strong passion for data analysis and business insights. With expertise in inventory management, supply chain optimization, and data-driven decision-making, I aim to streamline operations and enhance business efficiency.
 
 🛠️ My Skill Set

@@ -5,12 +5,14 @@ Welcome to my GitHub profile! I'm Husnain Masood, a Warehouse Manager with a str
 
 🛠️ My Skill Set
 📊 Data Analysis
+
 Data Visualization: Creating dashboards and visual reports to communicate insights effectively.
 Data Cleaning & Transformation: Using Excel, Power Query, and SQL for accurate data processing.
 KPIs & Metrics: Analyzing key performance indicators to track progress and identify improvement areas.
 Business Intelligence: Developing predictive models and insights to guide strategic decision-making.
 
 🌟 Warehouse Management
+
 Inventory Control: Ensuring accurate stock levels, minimizing shrinkage, and optimizing space utilization.
 Logistics Coordination: Managing inbound and outbound shipments, improving delivery timelines.
 Team Leadership: Leading warehouse staff to achieve productivity targets while maintaining safety standards.

@@ -37,6 +37,7 @@ Conducted a cost analysis to identify areas of overspending and recommended budg
 
 🏆 Achievements
 Recognized for implementing data-driven solutions that saved significant costs.
+
 📫 Connect with Me
 Feel free to reach out if you'd like to discuss warehousing strategies, data analysis techniques, or anything related to business operations. I'm always excited to connect with fellow professionals!
 
